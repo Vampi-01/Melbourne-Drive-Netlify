@@ -1,8 +1,0 @@
-# Redirect from www.melbournedrive.com.au to melbournedrive.com.au
-www.melbournedrive.com.au/* https://melbournedrive.com.au/:splat 301!
-
-# Redirect from melbournedrive.com to melbournedrive.com.au
-/melbournedrive.com/* https://melbournedrive.com.au/:splat 301!
-www.melbournedrive.com/* https://melbournedrive.com.au/:splat 301!
-
-/*    /index.html   200
