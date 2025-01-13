@@ -1,5 +1,7 @@
 
 
-/melbournedrive    https://melbournedrive.com.au
+https://www.melbournedrive.com/* https://melbournedrive.com.au/:splat 301!
+https://www.melbournedrive.com.au/* https://melbournedrive.com.au/:splat 301!
+
 
 /*    /index.html   200
