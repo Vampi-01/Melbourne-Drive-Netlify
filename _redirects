@@ -1,7 +1,9 @@
-
-
+# Redirect all traffic from melbournedrive.com and www.melbournedrive.com to melbournedrive.com.au
+https://melbournedrive.com/* https://melbournedrive.com.au/:splat 301!
 https://www.melbournedrive.com/* https://melbournedrive.com.au/:splat 301!
+
+# Redirect www.melbournedrive.com.au to melbournedrive.com.au
 https://www.melbournedrive.com.au/* https://melbournedrive.com.au/:splat 301!
 
-
+# Handle Single Page Application routing for React
 /*    /index.html   200
